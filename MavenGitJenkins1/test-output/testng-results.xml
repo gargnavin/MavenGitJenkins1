@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-06T17:04:04 CET" name="Suite" finished-at="2021-11-06T17:04:18 CET" duration-ms="13630">
+    <groups>
+    </groups>
+    <test started-at="2021-11-06T17:04:04 CET" name="Test" finished-at="2021-11-06T17:04:18 CET" duration-ms="13630">
+      <class name="com.MavenGitJenkins1.NewTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MavenGitJenkins1.NewTest@69e1dd28]" started-at="2021-11-06T17:04:04 CET" name="beforeMethod" finished-at="2021-11-06T17:04:14 CET" duration-ms="9572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="googleLaunchTest()[pri:0, instance:com.MavenGitJenkins1.NewTest@69e1dd28]" started-at="2021-11-06T17:04:14 CET" name="googleLaunchTest" finished-at="2021-11-06T17:04:16 CET" duration-ms="2317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLaunchTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MavenGitJenkins1.NewTest@69e1dd28]" started-at="2021-11-06T17:04:16 CET" name="afterMethod" finished-at="2021-11-06T17:04:18 CET" duration-ms="1481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.MavenGitJenkins1.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
